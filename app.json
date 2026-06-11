@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Christ-Centered Ministries",
+    "slug": "christ-centered-ministries",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTabletMode": true,
+      "bundleIdentifier": "com.christcenteredministries.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.christcenteredministries.app"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
